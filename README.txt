@@ -1,6 +1,6 @@
-<h1 align="center">Site Ada Lovelace</h1>
+Site Ada Lovelace
 
-<p align="center">Site conta uma breve história da Ada Lovelace</p>
+site conta a história da Ada Lovelace
 
-<h3 align="center">
+
  🚧 JavaScript 🚀 Em construção...  🚧
